@@ -14,7 +14,8 @@ Hi! I am Prashik, a student at Indian Institute of Technology, Bombay currently 
 
 Hit me up if you've got a cool idea regarding any of those and wish to collaborate!
 
-Email: [prashik.vnit@gmail.com](prashik.vnit@gmail.com)
+Email: [prashik.vnit@gmail.com](prashik.vnit@gmail.com) [prashik.vnit\@gmail.com](mailto:prashik.vnit@gmail.com?subject=Webpage)
+
 
 
 ## Present
