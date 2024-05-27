@@ -25,13 +25,13 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 ## Past
 
-* University Of Wisconsin - Madison	Madison, USA
+* **University Of Wisconsin - Madison**	
 * Research Assistant	
 
-• Project under Prof. Ive Hermans used ML for screening of chemical compounds resulting into 70 percent reduction in processing time. 
-• Developed a dataset with over 50 features of catalysts from over 200 research papers, cleaned and filtered raw data using SQL
+Under the mentorship of Prof. Ive Hermans, our project harnessed machine learning to revolutionize the screening of chemical compounds, achieving a remarkable 70% reduction in processing time. We meticulously curated a comprehensive dataset, encompassing over 50 features of catalysts, derived from an extensive review of more than 200 research papers. Utilizing SQL, we adeptly cleaned and filtered the raw data, ensuring precision and reliability. This innovative approach not only accelerated the research process but also set a new benchmark in the field of chemical compound analysis.
 
-* ZS Associates	Pune, India
+
+* **ZS Associates**	
 * Research Assistant
 * 
 • Worked with Data Engineering team to improve performance of AWS frameworks by reducing processing time by 60 percent.
@@ -39,7 +39,7 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 • Built Data Quality Management services and did POC for minimising the cost of cloud resources used in the frameworks.
 
 
-* ISB	Hyderabad, India
+* **Indian School of Business	Hyderabad**
 * Research Assistant
   
 • Worked with Prof. Sumeet Kumar on the project “YouTube Parental Control”, developed a kids friendly Android app. 
@@ -47,7 +47,7 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 • Developed a YT video transcript database to segregate educationally rich content based on sentiment analysis.
 
 
-* IIM Udaipur	Udaipur, India
+* **Indian Institutes of Management Udaipur**	
 * Research Assistant
   
 • Worked under Prof. Ashish Galande on project “Effect of social distancing promotion campaigns on brand value”.
