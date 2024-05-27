@@ -26,17 +26,15 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 ## Past
 
 * **University Of Wisconsin - Madison**	
-* Research Assistant	
+	
 
 Under the mentorship of Prof. Ive Hermans, our project harnessed machine learning to revolutionize the screening of chemical compounds, achieving a remarkable 70% reduction in processing time. We meticulously curated a comprehensive dataset, encompassing over 50 features of catalysts, derived from an extensive review of more than 200 research papers. Utilizing SQL, we adeptly cleaned and filtered the raw data, ensuring precision and reliability. This innovative approach not only accelerated the research process but also set a new benchmark in the field of chemical compound analysis.
 
 
 * **ZS Associates**	
-* Research Assistant
-* 
-• Worked with Data Engineering team to improve performance of AWS frameworks by reducing processing time by 60 percent.
+### Associate
 
-• Built Data Quality Management services and did POC for minimising the cost of cloud resources used in the frameworks.
+In my role as an Associate, I collaborated with the Data Engineering team to enhance the performance of AWS frameworks, achieving a 60% reduction in processing time. Additionally, I developed Data Quality Management services and conducted a proof of concept (POC) to minimize the cost of cloud resources used in these frameworks. This experience not only optimized system efficiency but also demonstrated significant cost savings in cloud resource management.
 
 
 * **Indian School of Business	Hyderabad**
