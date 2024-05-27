@@ -37,10 +37,12 @@ In my role as an Associate, I collaborated with the Data Engineering team to enh
 
 
 * **Indian School of Business	Hyderabad**
+
 As a Research Assistant, I collaborated with **Prof. Sumeet Kumar** on the "YouTube Parental Control" project, developing a kid-friendly Android app. I also created a YouTube video transcript database to segregate educationally rich content through sentiment analysis, ensuring a safe and enriching viewing experience for children.
 
 
-* **Indian Institutes of Management Udaipur**	
+* **Indian Institutes of Management Udaipur**
+  
 As a Research Assistant under **Prof. Ashish Galande**, I contributed to the project "Effect of Social Distancing Promotion Campaigns on Brand Value." I utilized POS tagging, Regex, BeautifulSoup, and other NLP techniques to perform sentiment analysis on Twitter data, providing valuable insights into the impact of these campaigns on brand perception.
 
 
