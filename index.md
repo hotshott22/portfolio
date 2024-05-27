@@ -32,7 +32,7 @@ Under the mentorship of Prof. Ive Hermans, our project harnessed machine learnin
 
 
 * **ZS Associates**	
-### Associate
+##### Associate
 
 In my role as an Associate, I collaborated with the Data Engineering team to enhance the performance of AWS frameworks, achieving a 60% reduction in processing time. Additionally, I developed Data Quality Management services and conducted a proof of concept (POC) to minimize the cost of cloud resources used in these frameworks. This experience not only optimized system efficiency but also demonstrated significant cost savings in cloud resource management.
 
