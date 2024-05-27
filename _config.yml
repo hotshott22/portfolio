@@ -22,7 +22,7 @@ nav:
  - name: "Resume"
    link: "/PrashikPatil_Resume .pdf"
  - name: "Contact"
-   link: "/contact"
+   link: "/contact.md"
  - name: "Blog"
    link: "/blog"
 
