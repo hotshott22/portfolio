@@ -24,6 +24,6 @@ nav:
  - name: "Contact"
    link: "/contact.md"
  - name: "Blog"
-   link: /blog.md
+   link: [Twitter](https://x.com/hotshott_22)
 
 theme: jekyll-theme-minimal
