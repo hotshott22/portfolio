@@ -63,7 +63,9 @@ As a Research Assistant under **Prof. Ashish Galande**, I contributed to the pro
 
 * Whiteboards help me think better. The bigger, the better. 
 
-* I love going out for trips and exploring different cultures/environments!
+* I'm a data scientist by day, a chemist by night. (And sometimes, both at the same time.) But I'm not sure if I'm stable enough to handle both.
+  
+* Alongside debugging code and optimizing algorithms, I take pride in my ability to cook delicious homemade meals.
 
 * Indian Food > All other cuisines. Please change my mind. 
 
