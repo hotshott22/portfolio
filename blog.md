@@ -26,7 +26,7 @@ Shoot me an email, if you got anything to add/discuss!
 
 
 <p float="left">
-  <img src="/Prashik22.png" width="1000" />
-  <img src="/Prashik22.png" width="1000" /> 
-  <img src="/Prashik22.png" width="1000" />
+  <img src="/Prashik22.png" width="500" />
+  <img src="/Prashik22.png" width="500" /> 
+  <img src="/Prashik22.png" width="500" />
 </p>
