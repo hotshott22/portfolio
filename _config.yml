@@ -16,14 +16,14 @@ sass:
     style: compressed
     sass_dir: _sass
 
-# nav:
-#  - name: "About"
-#    link: "/index"
-#  - name: "Resume"
-#    link: "/PrashikPatil_Resume .pdf"
-#  - name: "Contact"
-#    link: "/contact.md"
-#  - name: "Blog"
-#    link: "/blog"
+nav:
+ - name: "About"
+   link: "/index"
+ - name: "Resume"
+   link: "/PrashikPatil_Resume .pdf"
+ - name: "Contact"
+   link: "/contact.md"
+ - name: "Blog"
+   link: "/blog"
 
 theme: jekyll-theme-minimal
