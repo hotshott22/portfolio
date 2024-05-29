@@ -23,3 +23,10 @@ description: Hi! I'm Archit, here you can find a collection of my technical writ
 1. [A Fresh Start](/blog/intro) A technical blog starts with a random, well sorta, muse about what it aims to be.
 
 Shoot me an email, if you got anything to add/discuss!
+
+
+<p float="left">
+  <img src="/Prashik.png" width="100" />
+  <img src="/Prashik.png" width="100" /> 
+  <img src="/Prashik.png" width="100" />
+</p>
