@@ -24,6 +24,6 @@ nav:
  - name: "Contact"
    link: "/contact.md"
  - name: "Blog"
-   link: "blog.md"
+   link: /blog.md
 
 theme: jekyll-theme-minimal
