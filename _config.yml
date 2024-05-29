@@ -17,12 +17,12 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Photo Gallery"
    link: one.html
- - name: "Resume"
-   link: "/PrashikPatil_Resume .pdf"
- - name: "Contact"
-   link: "/contact.md"
+ # - name: "Resume"
+ #   link: "/PrashikPatil_Resume .pdf"
+ # - name: "Contact"
+ #   link: "/contact.md"
 
 
 theme: jekyll-theme-minimal
