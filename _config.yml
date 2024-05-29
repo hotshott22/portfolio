@@ -17,13 +17,14 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/index"
- - name: "Resume"
-   link: "/PrashikPatil_Resume .pdf"
- - name: "Contact"
-   link: "/contact.md"
- - name: "Blog"
-   link: [Twitter](https://x.com/hotshott_22)
+hello world!
+#  - name: "About"
+#    link: "/index"
+#  - name: "Resume"
+#    link: "/PrashikPatil_Resume .pdf"
+#  - name: "Contact"
+#    link: "/contact.md"
+#  - name: "Blog"
+#    link: [Twitter](https://x.com/hotshott_22)
 
 theme: jekyll-theme-minimal
