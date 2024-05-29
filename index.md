@@ -67,7 +67,13 @@ As a Research Assistant under **Prof. Ashish Galande**, I contributed to the pro
 
 * Indian Food > All other cuisines. Please change my mind. 
 
-* Mohammed Rafi > any other singer. 
+* Mohammed Rafi > any other singer.
+
+
+## Social
+
+1. [Twitter](https://x.com/hotshott_22)
+2. [LinkedIn](https://www.linkedin.com/in/prashikpatil/)  
 
 
 ## Publications
