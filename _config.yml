@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ml.png
+   link: blog.md
  - name: "Resume"
    link: "/PrashikPatil_Resume .pdf"
  - name: "Contact"
