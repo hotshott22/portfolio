@@ -19,9 +19,9 @@ Email:[prashik.vnit@gmail.com](mailto:prashik.vnit@gmail.com?subject=Webpage)
 
 ## Present
 
-* Working on a cool web service. More coming soon!
+* I work with catalysts and machine learning. I guess you could say I’m all about fast reactions and smart predictions!
 
-* Developing methods to train and infer from extremely deep and sparse neural networks while preserving performance. 
+* I like reading history about the Crusades, uncovering the epic battles, complex politics, and cultural exchanges of this pivotal era.
 
 * Life?
 
@@ -57,7 +57,8 @@ As a Research Assistant under **Prof. Ashish Galande**, I contributed to the pro
 
 * More research?
 
-* ...
+* By day, I'm an energy systems guru wielding a spatula like a culinary crusader. Mastering the grid is my ultimate goal, but if all else fails, I'll settle for opening a killer sandwich joint in Mumbai!
+
 
 ## Random
 
