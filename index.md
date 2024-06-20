@@ -13,7 +13,7 @@ description: Hi! I'm Prashik, an masters student exploring the world of material
 Hi! I am Prashik, a student at Indian Institute of Technology, Bombay currently completing a masters degree. I am passionate about computer science and its applications in chemistry, with a particular focus on using machine learning to aid catalyst discovery. You can often find me in one of the labs at the IIT Bombay CSE Department, where I engage in discussions and collaborate on innovative projects in this exciting field.
 
 
-apart from this, I've had stints with competetive programming and software development.  
+Apart from this, I've had stints with competetive programming and software development.  
 
 
 Hit me up if you've got a cool idea regarding any of those and wish to collaborate!
