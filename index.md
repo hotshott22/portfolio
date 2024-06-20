@@ -10,7 +10,7 @@ description: Hi! I'm Prashik, an masters student exploring the world of material
 
 <img class="profile-picture" src="Prashik22.png">
 
-Hi! I am Prashik, a student at Indian Institute of Technology, Bombay currently completing a masters degree at the Department of Energy Science and Engineering. I've had stints with competetive programming and software development.  
+Hi! I am Prashik, a student at Indian Institute of Technology, Bombay currently completing a masters degree. I've had stints with competetive programming and software development.  
 
 Hit me up if you've got a cool idea regarding any of those and wish to collaborate!
 
