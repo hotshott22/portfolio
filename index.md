@@ -29,6 +29,8 @@ Email:[prashik.vnit@gmail.com](mailto:prashik.vnit@gmail.com?subject=Webpage)
 
 * Life?
 
+* Currently working with Prof. Debasish Chatterjee and Prof. Abir De on "Security of cyber physical systems"
+
 
 ## Past
 
