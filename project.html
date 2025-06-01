@@ -15,24 +15,25 @@
 
         .container {
             width: 90%;
+            max-width: 800px;
             margin: 0 auto;
             padding: 20px;
         }
 
         h1 {
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
 
         .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            display: flex;
+            flex-direction: column;
             gap: 20px;
         }
 
         .grid-item {
             background-color: #fff;
-            padding: 15px;
+            padding: 20px;
             border: 1px solid #ddd;
             border-radius: 8px;
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -40,9 +41,9 @@
 
         .project-title {
             font-weight: bold;
-            font-size: 16px;
+            font-size: 18px;
             color: #333;
-            margin-bottom: 8px;
+            margin-bottom: 6px;
         }
 
         .advisor {
@@ -51,10 +52,14 @@
             margin-bottom: 10px;
         }
 
+        .description {
+            font-size: 14px;
+            color: #444;
+            margin-bottom: 10px;
+        }
+
         .github-link {
-            display: inline-block;
-            margin-top: 8px;
-            font-size: 13px;
+            font-size: 14px;
             color: #FF681F;
             text-decoration: none;
         }
@@ -84,25 +89,36 @@
     <div class="container">
         <h1>Projects</h1>
         <div class="grid">
+
             <div class="grid-item">
                 <div class="project-title">HJB Solver for Optimal Control</div>
                 <div class="advisor">Advisor: Prof. Debasish Chatterjee</div>
+                <div class="description">
+                    Developed a numerical solver for Hamilton-Jacobi-Bellman (HJB) equations used in optimal control problems. The solver is based on finite difference methods and semi-Lagrangian schemes to handle nonlinear dynamics.
+                </div>
                 <a class="github-link" href="https://github.com/prashikpatil221/hjb-solver" target="_blank">GitHub Repo</a>
             </div>
 
             <div class="grid-item">
                 <div class="project-title">Sales Forecasting using Machine Learning</div>
                 <div class="advisor">Advisor: Prof. Abir De</div>
+                <div class="description">
+                    Designed and trained machine learning models to predict Walmart sales using historical data. Used time-series decomposition, feature engineering, and XGBoost/LightGBM to improve accuracy on hierarchical datasets.
+                </div>
                 <a class="github-link" href="https://github.com/prashikpatil221/sales-forecast" target="_blank">GitHub Repo</a>
             </div>
 
             <div class="grid-item">
                 <div class="project-title">Swamp Robot Navigation</div>
                 <div class="advisor">Advisor: Prof. Debasish Chatterjee</div>
+                <div class="description">
+                    Designed adaptive path-planning strategies for autonomous swamp robots navigating dynamic terrains. Implemented obstacle avoidance using sensor feedback and control-theoretic approaches.
+                </div>
                 <a class="github-link" href="https://github.com/prashikpatil221/swamp-robot" target="_blank">GitHub Repo</a>
             </div>
 
-            <!-- Add more project items here -->
+            <!-- More projects can be added below using same format -->
+
         </div>
     </div>
 </body>
