@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Work Experience</title>
+    <title>Experience</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -15,46 +15,46 @@
 
         .container {
             width: 90%;
+            max-width: 800px;
             margin: 0 auto;
             padding: 20px;
         }
 
         h1 {
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
 
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        .experience-list {
+            display: flex;
+            flex-direction: column;
             gap: 20px;
         }
 
-        .grid-item {
+        .experience-item {
             background-color: #fff;
-            padding: 15px;
+            padding: 20px;
             border: 1px solid #ddd;
             border-radius: 8px;
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
         }
 
         .role {
-            font-size: 18px;
             font-weight: bold;
+            font-size: 18px;
             color: #333;
-            margin-bottom: 8px;
         }
 
-        .org {
-            font-size: 14px;
-            font-weight: 500;
+        .organization {
+            font-size: 15px;
             color: #555;
-            margin-bottom: 6px;
+            margin-top: 4px;
         }
 
         .duration {
-            font-size: 13px;
-            color: #777;
+            font-size: 14px;
+            color: #888;
+            margin-top: 2px;
             margin-bottom: 10px;
         }
 
@@ -83,29 +83,28 @@
 
     <div class="container">
         <h1>Work Experience</h1>
-        <div class="grid">
-            <div class="grid-item">
-                <div class="role">Research Intern - Control Systems</div>
-                <div class="org">IIT Bombay</div>
-                <div class="duration">Jan 2025 – Present</div>
-                <div class="description">Working on HJB solvers and adaptive control for robotics under Prof. Debasish Chatterjee. Implementing real-time path planning algorithms for autonomous robots.</div>
-            </div>
+        <div class="experience-list">
 
-            <div class="grid-item">
-                <div class="role">Machine Learning Intern</div>
-                <div class="org">University of Wisconsin–Madison</div>
+            <div class="experience-item">
+                <div class="role">Research Intern</div>
+                <div class="organization">DRDO – IIT Bombay</div>
                 <div class="duration">May 2024 – July 2024</div>
-                <div class="description">Worked on graph-based ML models for molecular property prediction. Trained and validated models on public chemistry datasets with research collaboration in progress.</div>
+                <div class="description">
+                    Worked on signal processing and control algorithms for defense applications. Focused on simulation-based validation and implementation of adaptive control techniques in real-time systems.
+                </div>
             </div>
 
-            <div class="grid-item">
-                <div class="role">AI Developer (Freelance)</div>
-                <div class="org">Consultancy Projects</div>
-                <div class="duration">2023 – 2024</div>
-                <div class="description">Provided AI/ML solutions for startups and academic projects. Focused on predictive modeling, NLP pipelines, and dashboard development for client demos.</div>
+            <div class="experience-item">
+                <div class="role">Summer Analyst</div>
+                <div class="organization">J.P. Morgan</div>
+                <div class="duration">May 2023 – July 2023</div>
+                <div class="description">
+                    Developed internal tools using Python and SQL to optimize reporting workflows for the markets division. Conducted data analysis on financial instruments and presented findings to the leadership team.
+                </div>
             </div>
 
-            <!-- Add more experience items as needed -->
+            <!-- Add more experience entries in the same format -->
+
         </div>
     </div>
 </body>
